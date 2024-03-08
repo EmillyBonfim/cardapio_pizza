@@ -1,13 +1,14 @@
 <img src="IMG/banner.png">
+
 # Apresentação ✨🚀
 Nesse trabalho, tivemos o desafio de criar um Cardápio Web!
 Utililando HTML e CSS.
 Podiamos escolher oque iriamos vender, e qual seria nossa loja, minha escolha foi uma Pizzaria!!!🍕
 
 # Interface ✨📸
-![Inteface](IMG/Home.jpeg)
+<img src="IMG/Home.jpeg">
 # Cardápio  ✨🍕
-![Cardápio](IMG/Cardapio.jpeg)
+<img src="IMG/Cardapio.jpeg">
 
 # Ferramentas utilizadas ✨⚙️🪛
 * CSS
