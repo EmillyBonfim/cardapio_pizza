@@ -6,8 +6,10 @@ Utililando HTML e CSS.
 Podiamos escolher oque iriamos vender, e qual seria nossa loja, minha escolha foi uma Pizzaria!!!🍕
 
 # Interface ✨📸
+
 <img src="IMG/Home.jpeg">
 # Cardápio  ✨🍕
+
 <img src="IMG/Cardapio.jpeg">
 
 # Ferramentas utilizadas ✨⚙️🪛
