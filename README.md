@@ -8,6 +8,7 @@ Podiamos escolher oque iriamos vender, e qual seria nossa loja, minha escolha fo
 # Interface ✨📸
 
 <img src="IMG/Home.jpeg">
+
 # Cardápio  ✨🍕
 
 <img src="IMG/Cardapio.jpeg">
