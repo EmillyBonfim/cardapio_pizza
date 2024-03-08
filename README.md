@@ -1,4 +1,4 @@
-<img src="img/Banner-especial.png" alt="">
+<img src="./img/Banner-especial.png">
 # Apresentação ✨🚀
 Nesse trabalho, tivemos o desafio de criar um Cardápio Web!
 Utililando HTML e CSS.
